@@ -1,5 +1,5 @@
 TERMUX BASIC PACKAGES 
-
+```
   pkg update -y
 
 pkg upgrade -y
@@ -101,3 +101,5 @@ termux-setup-storage -y
 pkg install macchanger -y
 
 apt update && apt upgrade -y
+
+```
